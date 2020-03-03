@@ -52,4 +52,4 @@ An id and address that we choose.
 
 Q11. What are their return values?
 
-They return either the whole property or NIL if there is no property.
+They return either the property that matches the search or NIL if there is no property.
